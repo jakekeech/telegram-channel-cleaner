@@ -126,7 +126,7 @@ def main():
     print(
         Panel(
             "\n[bold]Available Commands:[/bold]\n\n[bold #007C24]list[/bold #007C24] - Generate an excel file with a list of current subscribers in a Telegram channel\n\n[bold #007C24]kick[/bold #007C24] - Input a list of subscribers by ID to remove them in bulk\n\n[bold #007C24]change[/bold #007C24] - Select a different Telegram channel\n\n[bold #007C24]exit[/bold #007C24] - Exit the program :wave:\n",
-            title="[bold green]Telegram Channel Cleaner[/bold green]",
+            title="[bold green]telegram-channel-cleaner[/bold green]",
             subtitle="[italic]v0.1",
         )
     )
