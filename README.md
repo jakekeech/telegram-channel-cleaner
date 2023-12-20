@@ -10,6 +10,6 @@ kick | kicks selected users from the specified Telegram channel
 change | switches Telegram channel
 ```
 
-## Download
+## Installation
 
 You can [download](https://github.com/jakekeech/telegram-channel-cleaner/releases/) the latest installable version of `telegram-channel-cleaner` for Windows.
