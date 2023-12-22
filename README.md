@@ -12,4 +12,4 @@ change | switches Telegram channel
 
 ## Installation
 
-You can [download](https://github.com/jakekeech/telegram-channel-cleaner/releases/) the latest installable version of `telegram-channel-cleaner` for Windows.
+You can [download](https://github.com/jakekeech/telegram-channel-cleaner/releases/) the latest version of `telegram-channel-cleaner` for Windows.
