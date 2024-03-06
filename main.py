@@ -1,5 +1,4 @@
 from telethon.sync import TelegramClient
-import telethon
 
 from rich.console import Console
 from rich.progress import (
